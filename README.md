@@ -18,7 +18,7 @@
 </p>
 
 ---
-
+![alt text](image-1.png)
 <audio controls src="(Audio) Shrimad Ramayan Soundtracks 31 - Shri Ram Stuti  (Female Version) _ श्री राम चंद्र कृपालु भजमन.m4a" title="Title"></audio>
 <!--
 **gyaneshkumarmaharaj1-lab/gyaneshkumarmaharaj1-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
